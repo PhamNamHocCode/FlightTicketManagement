@@ -1,7 +1,7 @@
-﻿namespace DTO
-{
-    public class UsersDTO
-    {
+﻿namespace DTO;
 
-    }
+public class UsersDTO
+{
+
 }
+

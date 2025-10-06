@@ -1,7 +1,7 @@
-﻿namespace DTO
-{
-    public class PassengersProfilesDTO
-    {
+﻿namespace DTO;
 
-    }
+public class PassengersProfilesDTO
+{
+
 }
+

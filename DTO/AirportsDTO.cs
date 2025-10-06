@@ -1,7 +1,7 @@
-namespace DTO
-{
-    public class AirportsDTO
-    {
+namespace DTO;
 
-    }
+public class AirportsDTO
+{
+
 }
+

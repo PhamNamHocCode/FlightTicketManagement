@@ -1,6 +1,6 @@
 namespace DTO;
 
-public class AirportDTO
+public class RoutesDTO
 {
     
 }

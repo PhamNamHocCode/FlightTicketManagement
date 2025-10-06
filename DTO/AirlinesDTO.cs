@@ -1,7 +1,7 @@
-﻿namespace DTO
-{
-    public class AirlinesDTO
-    {
+﻿namespace DTO;
 
-    }
+public class AirlinesDTO
+{
+
 }
+
